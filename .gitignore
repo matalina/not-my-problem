@@ -3,3 +3,6 @@
 
 # Netlify agent skills (local tooling)
 .agents
+
+# Dependencies
+node_modules
